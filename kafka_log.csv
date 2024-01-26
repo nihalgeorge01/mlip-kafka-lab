@@ -1,0 +1,521 @@
+2024-01-24 21:54:22,New York City,29\u00baC
+2024-01-24 21:54:23,Washington D.C.,21\u00baC
+2024-01-24 21:54:24,Atlanta,25\u00baC
+2024-01-24 21:54:25,New York City,22\u00baC
+2024-01-24 21:54:26,Pittsburgh,31\u00baC
+2024-01-24 21:54:27,Pittsburgh,27\u00baC
+2024-01-24 21:54:28,Washington D.C.,31\u00baC
+2024-01-24 21:54:29,New York City,27\u00baC
+2024-01-24 21:54:30,Pittsburgh,25\u00baC
+2024-01-24 21:54:31,New York City,19\u00baC
+2024-01-25 10:33:04,Seattle,32\u00baC
+2024-01-25 10:33:05,Seattle,24\u00baC
+2024-01-25 10:33:06,Seattle,20\u00baC
+2024-01-25 10:33:07,Seattle,29\u00baC
+2024-01-25 10:33:08,Boston,18\u00baC
+2024-01-25 10:33:09,Seattle,18\u00baC
+2024-01-25 10:33:10,Seattle,32\u00baC
+2024-01-25 10:33:11,Boston,28\u00baC
+2024-01-25 10:33:12,Boston,20\u00baC
+2024-01-25 10:33:13,Seattle,28\u00baC
+2024-01-25 14:22:29,Pittsburgh,19\u00baC
+2024-01-25 14:22:30,Pittsburgh,31\u00baC
+2024-01-25 14:22:31,Atlanta,22\u00baC
+2024-01-25 14:22:32,Pittsburgh,32\u00baC
+2024-01-25 14:22:33,Pittsburgh,21\u00baC
+2024-01-25 14:22:34,Pittsburgh,29\u00baC
+2024-01-25 14:22:35,Pittsburgh,30\u00baC
+2024-01-25 14:22:36,Pittsburgh,22\u00baC
+2024-01-25 14:22:37,Atlanta,20\u00baC
+2024-01-25 14:22:38,Atlanta,18\u00baC
+2024-01-25 14:27:41,Pittsburgh,22\u00baC
+2024-01-25 14:27:42,Pittsburgh,31\u00baC
+2024-01-25 14:27:43,Atlanta,24\u00baC
+2024-01-25 14:27:44,Pittsburgh,27\u00baC
+2024-01-25 14:27:45,Pittsburgh,24\u00baC
+2024-01-25 14:27:46,Atlanta,29\u00baC
+2024-01-25 14:27:47,Atlanta,23\u00baC
+2024-01-25 14:27:48,Pittsburgh,23\u00baC
+2024-01-25 14:27:49,Pittsburgh,18\u00baC
+2024-01-25 14:27:50,Pittsburgh,18\u00baC
+2024-01-25 15:08:51,Houston,19\u00baC
+2024-01-25 15:08:52,Pittsburgh,32\u00baC
+2024-01-25 15:08:53,Pittsburgh,24\u00baC
+2024-01-25 15:08:54,Washington,30\u00baC
+2024-01-25 15:08:55,Washington,26\u00baC
+2024-01-25 15:08:56,New York,28\u00baC
+2024-01-25 15:08:57,Houston,19\u00baC
+2024-01-25 15:08:58,Pittsburgh,27\u00baC
+2024-01-25 15:08:59,Houston,18\u00baC
+2024-01-25 15:09:00,Pittsburgh,24\u00baC
+2024-01-25 15:42:54,Houston,30\u00baC
+2024-01-25 15:42:55,New York,25\u00baC
+2024-01-25 15:42:56,New York,18\u00baC
+2024-01-25 15:42:57,Pittsburgh,18\u00baC
+2024-01-25 15:42:58,Houston,18\u00baC
+2024-01-25 15:42:59,Pittsburgh,31\u00baC
+2024-01-25 15:43:00,Houston,31\u00baC
+2024-01-25 15:43:01,Washington,22\u00baC
+2024-01-25 15:43:02,Pittsburgh,25\u00baC
+2024-01-25 15:43:03,Houston,29\u00baC
+2024-01-25 17:51:18,shanghai,30\u00baC
+2024-01-25 17:51:19,beijing,29\u00baC
+2024-01-25 17:51:20,beijing,29\u00baC
+2024-01-25 17:51:21,beijing,31\u00baC
+2024-01-25 17:51:22,beijing,30\u00baC
+2024-01-25 17:51:23,shanghai,22\u00baC
+2024-01-25 17:51:24,shanghai,19\u00baC
+2024-01-25 17:51:25,beijing,24\u00baC
+2024-01-25 17:51:26,beijing,23\u00baC
+2024-01-25 17:51:27,shanghai,21\u00baC
+2024-01-25 18:02:50,shanghai,31\u00baC
+2024-01-25 18:02:51,shanghai,18\u00baC
+2024-01-25 18:02:52,shanghai,23\u00baC
+2024-01-25 18:02:53,beijing,25\u00baC
+2024-01-25 18:02:54,beijing,31\u00baC
+2024-01-25 18:02:55,shanghai,32\u00baC
+2024-01-25 18:02:56,beijing,18\u00baC
+2024-01-25 18:02:57,shanghai,21\u00baC
+2024-01-25 18:02:58,beijing,32\u00baC
+2024-01-25 18:02:59,beijing,32\u00baC
+2024-01-25 18:33:51,Pittsburgh,19\u00baC
+2024-01-25 18:33:52,Baltimore,18\u00baC
+2024-01-25 18:33:53,Orlando,23\u00baC
+2024-01-25 18:33:54,Pittsburgh,26\u00baC
+2024-01-25 18:33:55,Pittsburgh,25\u00baC
+2024-01-25 18:33:56,Pittsburgh,23\u00baC
+2024-01-25 18:33:57,Baltimore,28\u00baC
+2024-01-25 18:33:58,Orlando,28\u00baC
+2024-01-25 18:33:59,Pittsburgh,27\u00baC
+2024-01-25 18:34:00,Orlando,31\u00baC
+2024-01-25 18:35:22,Orlando,31\u00baC
+2024-01-25 18:35:23,Pittsburgh,23\u00baC
+2024-01-25 18:35:24,Orlando,30\u00baC
+2024-01-25 18:35:25,Pittsburgh,29\u00baC
+2024-01-25 18:35:26,Orlando,25\u00baC
+2024-01-25 18:35:27,Baltimore,23\u00baC
+2024-01-25 18:35:28,Baltimore,31\u00baC
+2024-01-25 18:35:29,Orlando,19\u00baC
+2024-01-25 18:35:30,Pittsburgh,19\u00baC
+2024-01-25 18:35:31,Orlando,18\u00baC
+2024-01-25 21:05:05,Mumbai,31\u00baC
+2024-01-25 21:05:06,New York,29\u00baC
+2024-01-25 21:05:07,New York,32\u00baC
+2024-01-25 21:05:08,New York,31\u00baC
+2024-01-25 21:05:09,New York,21\u00baC
+2024-01-25 21:05:10,Mumbai,31\u00baC
+2024-01-25 21:05:11,Mumbai,26\u00baC
+2024-01-25 21:05:12,New York,19\u00baC
+2024-01-25 21:05:13,New York,31\u00baC
+2024-01-25 21:05:14,New York,25\u00baC
+2024-01-26 03:26:55,Pittsburgh,21\u00baC
+2024-01-26 03:26:57,Pittsburgh,32\u00baC
+2024-01-26 03:26:58,Pittsburgh,31\u00baC
+2024-01-26 03:26:59,Seattle,32\u00baC
+2024-01-26 03:27:00,San Francisco,20\u00baC
+2024-01-26 03:27:01,Seattle,23\u00baC
+2024-01-26 03:27:02,Pittsburgh,29\u00baC
+2024-01-26 03:27:03,Seattle,26\u00baC
+2024-01-26 03:27:04,Pittsburgh,29\u00baC
+2024-01-26 03:27:05,Seattle,18\u00baC
+2024-01-26 03:30:35,Pittsburgh,19\u00baC
+2024-01-26 03:30:36,Pittsburgh,29\u00baC
+2024-01-26 03:30:37,Pittsburgh,23\u00baC
+2024-01-26 03:30:38,Seattle,23\u00baC
+2024-01-26 03:30:39,Seattle,29\u00baC
+2024-01-26 03:30:40,Seattle,32\u00baC
+2024-01-26 03:30:41,Seattle,27\u00baC
+2024-01-26 03:30:42,Seattle,22\u00baC
+2024-01-26 03:30:43,Seattle,24\u00baC
+2024-01-26 03:30:44,San Francisco,32\u00baC
+2024-01-26 03:40:37,San Francisco,25\u00baC
+2024-01-26 03:40:38,Seattle,19\u00baC
+2024-01-26 03:40:39,Pittsburgh,20\u00baC
+2024-01-26 03:40:40,Seattle,24\u00baC
+2024-01-26 03:40:41,San Francisco,18\u00baC
+2024-01-26 03:40:42,San Francisco,27\u00baC
+2024-01-26 03:40:43,Seattle,26\u00baC
+2024-01-26 03:40:44,Seattle,24\u00baC
+2024-01-26 03:40:45,Pittsburgh,27\u00baC
+2024-01-26 03:40:46,Seattle,32\u00baC
+2024-01-26 09:50:04,Bangalore,31\u00baC
+2024-01-26 09:50:05,Namibia,26\u00baC
+2024-01-26 09:50:06,Bangalore,19\u00baC
+2024-01-26 09:50:07,Pittsburgh,25\u00baC
+2024-01-26 09:50:08,Pittsburgh,31\u00baC
+2024-01-26 09:50:09,Bangalore,23\u00baC
+2024-01-26 09:50:10,Namibia,30\u00baC
+2024-01-26 09:50:11,Bangalore,23\u00baC
+2024-01-26 09:50:12,Bangalore,21\u00baC
+2024-01-26 09:50:13,Namibia,30\u00baC
+2024-01-26 09:56:59,Namibia,25\u00baC
+2024-01-26 09:57:00,Bangalore,22\u00baC
+2024-01-26 09:57:01,Pittsburgh,27\u00baC
+2024-01-26 09:57:02,Pittsburgh,19\u00baC
+2024-01-26 09:57:03,Pittsburgh,32\u00baC
+2024-01-26 09:57:04,Pittsburgh,32\u00baC
+2024-01-26 09:57:05,Bangalore,30\u00baC
+2024-01-26 09:57:06,Pittsburgh,29\u00baC
+2024-01-26 09:57:07,Namibia,27\u00baC
+2024-01-26 09:57:08,Namibia,25\u00baC
+2024-01-24 21:54:22,New York City,29\u00baC
+2024-01-24 21:54:23,Washington D.C.,21\u00baC
+2024-01-24 21:54:24,Atlanta,25\u00baC
+2024-01-24 21:54:25,New York City,22\u00baC
+2024-01-24 21:54:26,Pittsburgh,31\u00baC
+2024-01-24 21:54:27,Pittsburgh,27\u00baC
+2024-01-24 21:54:28,Washington D.C.,31\u00baC
+2024-01-24 21:54:29,New York City,27\u00baC
+2024-01-24 21:54:30,Pittsburgh,25\u00baC
+2024-01-24 21:54:31,New York City,19\u00baC
+2024-01-25 10:33:04,Seattle,32\u00baC
+2024-01-25 10:33:05,Seattle,24\u00baC
+2024-01-25 10:33:06,Seattle,20\u00baC
+2024-01-25 10:33:07,Seattle,29\u00baC
+2024-01-25 10:33:08,Boston,18\u00baC
+2024-01-25 10:33:09,Seattle,18\u00baC
+2024-01-25 10:33:10,Seattle,32\u00baC
+2024-01-25 10:33:11,Boston,28\u00baC
+2024-01-25 10:33:12,Boston,20\u00baC
+2024-01-25 10:33:13,Seattle,28\u00baC
+2024-01-25 14:22:29,Pittsburgh,19\u00baC
+2024-01-25 14:22:30,Pittsburgh,31\u00baC
+2024-01-25 14:22:31,Atlanta,22\u00baC
+2024-01-25 14:22:32,Pittsburgh,32\u00baC
+2024-01-25 14:22:33,Pittsburgh,21\u00baC
+2024-01-25 14:22:34,Pittsburgh,29\u00baC
+2024-01-25 14:22:35,Pittsburgh,30\u00baC
+2024-01-25 14:22:36,Pittsburgh,22\u00baC
+2024-01-25 14:22:37,Atlanta,20\u00baC
+2024-01-25 14:22:38,Atlanta,18\u00baC
+2024-01-25 14:27:41,Pittsburgh,22\u00baC
+2024-01-25 14:27:42,Pittsburgh,31\u00baC
+2024-01-25 14:27:43,Atlanta,24\u00baC
+2024-01-25 14:27:44,Pittsburgh,27\u00baC
+2024-01-25 14:27:45,Pittsburgh,24\u00baC
+2024-01-25 14:27:46,Atlanta,29\u00baC
+2024-01-25 14:27:47,Atlanta,23\u00baC
+2024-01-25 14:27:48,Pittsburgh,23\u00baC
+2024-01-25 14:27:49,Pittsburgh,18\u00baC
+2024-01-25 14:27:50,Pittsburgh,18\u00baC
+2024-01-25 15:08:51,Houston,19\u00baC
+2024-01-25 15:08:52,Pittsburgh,32\u00baC
+2024-01-25 15:08:53,Pittsburgh,24\u00baC
+2024-01-25 15:08:54,Washington,30\u00baC
+2024-01-25 15:08:55,Washington,26\u00baC
+2024-01-25 15:08:56,New York,28\u00baC
+2024-01-25 15:08:57,Houston,19\u00baC
+2024-01-25 15:08:58,Pittsburgh,27\u00baC
+2024-01-25 15:08:59,Houston,18\u00baC
+2024-01-25 15:09:00,Pittsburgh,24\u00baC
+2024-01-25 15:42:54,Houston,30\u00baC
+2024-01-25 15:42:55,New York,25\u00baC
+2024-01-25 15:42:56,New York,18\u00baC
+2024-01-25 15:42:57,Pittsburgh,18\u00baC
+2024-01-25 15:42:58,Houston,18\u00baC
+2024-01-25 15:42:59,Pittsburgh,31\u00baC
+2024-01-25 15:43:00,Houston,31\u00baC
+2024-01-25 15:43:01,Washington,22\u00baC
+2024-01-25 15:43:02,Pittsburgh,25\u00baC
+2024-01-25 15:43:03,Houston,29\u00baC
+2024-01-25 17:51:18,shanghai,30\u00baC
+2024-01-25 17:51:19,beijing,29\u00baC
+2024-01-25 17:51:20,beijing,29\u00baC
+2024-01-25 17:51:21,beijing,31\u00baC
+2024-01-25 17:51:22,beijing,30\u00baC
+2024-01-25 17:51:23,shanghai,22\u00baC
+2024-01-25 17:51:24,shanghai,19\u00baC
+2024-01-25 17:51:25,beijing,24\u00baC
+2024-01-25 17:51:26,beijing,23\u00baC
+2024-01-25 17:51:27,shanghai,21\u00baC
+2024-01-25 18:02:50,shanghai,31\u00baC
+2024-01-25 18:02:51,shanghai,18\u00baC
+2024-01-25 18:02:52,shanghai,23\u00baC
+2024-01-25 18:02:53,beijing,25\u00baC
+2024-01-25 18:02:54,beijing,31\u00baC
+2024-01-25 18:02:55,shanghai,32\u00baC
+2024-01-25 18:02:56,beijing,18\u00baC
+2024-01-25 18:02:57,shanghai,21\u00baC
+2024-01-25 18:02:58,beijing,32\u00baC
+2024-01-25 18:02:59,beijing,32\u00baC
+2024-01-25 18:33:51,Pittsburgh,19\u00baC
+2024-01-25 18:33:52,Baltimore,18\u00baC
+2024-01-25 18:33:53,Orlando,23\u00baC
+2024-01-25 18:33:54,Pittsburgh,26\u00baC
+2024-01-25 18:33:55,Pittsburgh,25\u00baC
+2024-01-25 18:33:56,Pittsburgh,23\u00baC
+2024-01-25 18:33:57,Baltimore,28\u00baC
+2024-01-25 18:33:58,Orlando,28\u00baC
+2024-01-25 18:33:59,Pittsburgh,27\u00baC
+2024-01-25 18:34:00,Orlando,31\u00baC
+2024-01-25 18:35:22,Orlando,31\u00baC
+2024-01-25 18:35:23,Pittsburgh,23\u00baC
+2024-01-25 18:35:24,Orlando,30\u00baC
+2024-01-25 18:35:25,Pittsburgh,29\u00baC
+2024-01-25 18:35:26,Orlando,25\u00baC
+2024-01-25 18:35:27,Baltimore,23\u00baC
+2024-01-25 18:35:28,Baltimore,31\u00baC
+2024-01-25 18:35:29,Orlando,19\u00baC
+2024-01-25 18:35:30,Pittsburgh,19\u00baC
+2024-01-25 18:35:31,Orlando,18\u00baC
+2024-01-25 21:05:05,Mumbai,31\u00baC
+2024-01-25 21:05:06,New York,29\u00baC
+2024-01-25 21:05:07,New York,32\u00baC
+2024-01-25 21:05:08,New York,31\u00baC
+2024-01-25 21:05:09,New York,21\u00baC
+2024-01-25 21:05:10,Mumbai,31\u00baC
+2024-01-25 21:05:11,Mumbai,26\u00baC
+2024-01-25 21:05:12,New York,19\u00baC
+2024-01-25 21:05:13,New York,31\u00baC
+2024-01-25 21:05:14,New York,25\u00baC
+2024-01-26 03:26:55,Pittsburgh,21\u00baC
+2024-01-26 03:26:57,Pittsburgh,32\u00baC
+2024-01-26 03:26:58,Pittsburgh,31\u00baC
+2024-01-26 03:26:59,Seattle,32\u00baC
+2024-01-26 03:27:00,San Francisco,20\u00baC
+2024-01-26 03:27:01,Seattle,23\u00baC
+2024-01-26 03:27:02,Pittsburgh,29\u00baC
+2024-01-26 03:27:03,Seattle,26\u00baC
+2024-01-26 03:27:04,Pittsburgh,29\u00baC
+2024-01-26 03:27:05,Seattle,18\u00baC
+2024-01-26 03:30:35,Pittsburgh,19\u00baC
+2024-01-26 03:30:36,Pittsburgh,29\u00baC
+2024-01-26 03:30:37,Pittsburgh,23\u00baC
+2024-01-26 03:30:38,Seattle,23\u00baC
+2024-01-26 03:30:39,Seattle,29\u00baC
+2024-01-26 03:30:40,Seattle,32\u00baC
+2024-01-26 03:30:41,Seattle,27\u00baC
+2024-01-26 03:30:42,Seattle,22\u00baC
+2024-01-26 03:30:43,Seattle,24\u00baC
+2024-01-26 03:30:44,San Francisco,32\u00baC
+2024-01-26 03:40:37,San Francisco,25\u00baC
+2024-01-26 03:40:38,Seattle,19\u00baC
+2024-01-26 03:40:39,Pittsburgh,20\u00baC
+2024-01-26 03:40:40,Seattle,24\u00baC
+2024-01-26 03:40:41,San Francisco,18\u00baC
+2024-01-26 03:40:42,San Francisco,27\u00baC
+2024-01-26 03:40:43,Seattle,26\u00baC
+2024-01-26 03:40:44,Seattle,24\u00baC
+2024-01-26 03:40:45,Pittsburgh,27\u00baC
+2024-01-26 03:40:46,Seattle,32\u00baC
+2024-01-26 09:50:04,Bangalore,31\u00baC
+2024-01-26 09:50:05,Namibia,26\u00baC
+2024-01-26 09:50:06,Bangalore,19\u00baC
+2024-01-26 09:50:07,Pittsburgh,25\u00baC
+2024-01-26 09:50:08,Pittsburgh,31\u00baC
+2024-01-26 09:50:09,Bangalore,23\u00baC
+2024-01-26 09:50:10,Namibia,30\u00baC
+2024-01-26 09:50:11,Bangalore,23\u00baC
+2024-01-26 09:50:12,Bangalore,21\u00baC
+2024-01-26 09:50:13,Namibia,30\u00baC
+2024-01-26 09:56:59,Namibia,25\u00baC
+2024-01-26 09:57:00,Bangalore,22\u00baC
+2024-01-26 09:57:01,Pittsburgh,27\u00baC
+2024-01-26 09:57:02,Pittsburgh,19\u00baC
+2024-01-26 09:57:03,Pittsburgh,32\u00baC
+2024-01-26 09:57:04,Pittsburgh,32\u00baC
+2024-01-26 09:57:05,Bangalore,30\u00baC
+2024-01-26 09:57:06,Pittsburgh,29\u00baC
+2024-01-26 09:57:07,Namibia,27\u00baC
+2024-01-26 09:57:08,Namibia,25\u00baC
+2024-01-24 21:54:22,New York City CLI,29ºC
+2024-01-26 15:30:49,Pune,22\u00baC
+2024-01-26 15:30:50,Mumbai,31\u00baC
+2024-01-26 15:30:51,Pune,24\u00baC
+2024-01-26 15:30:52,Tel Aviv,19\u00baC
+2024-01-26 15:30:53,Mumbai,23\u00baC
+2024-01-26 15:30:54,Mumbai,24\u00baC
+2024-01-26 15:30:55,Mumbai,25\u00baC
+2024-01-26 15:30:56,Mumbai,25\u00baC
+2024-01-26 15:30:57,Mumbai,28\u00baC
+2024-01-26 15:30:58,Tel Aviv,26\u00baC
+2024-01-26 10:43:17,Shanghai,18\u00baC
+2024-01-26 10:43:18,Beijing,22\u00baC
+2024-01-26 10:43:19,Pittsburgh,18\u00baC
+2024-01-26 10:43:20,Pittsburgh,18\u00baC
+2024-01-26 10:43:21,Shanghai,30\u00baC
+2024-01-26 10:43:22,Shanghai,21\u00baC
+2024-01-26 10:43:23,Pittsburgh,31\u00baC
+2024-01-26 10:43:24,Shanghai,19\u00baC
+2024-01-26 10:43:25,Shanghai,26\u00baC
+2024-01-26 10:43:26,Shanghai,21\u00baC
+2024-01-26 10:47:12,Sydney,20\u00baC
+2024-01-26 10:47:13,Tokyo,20\u00baC
+2024-01-26 10:47:14,Pittsburgh,31\u00baC
+2024-01-26 10:47:15,Pittsburgh,31\u00baC
+2024-01-26 10:47:16,Pittsburgh,32\u00baC
+2024-01-26 10:47:17,Tokyo,19\u00baC
+2024-01-26 10:47:18,Tokyo,26\u00baC
+2024-01-26 10:47:19,Pittsburgh,25\u00baC
+2024-01-26 10:47:20,Tokyo,21\u00baC
+2024-01-26 10:47:21,Pittsburgh,31\u00baC
+2024-01-26 10:47:34,Beijing,30\u00baC
+2024-01-26 10:47:35,Beijing,24\u00baC
+2024-01-26 10:47:36,Shanghai,32\u00baC
+2024-01-26 10:47:37,Beijing,23\u00baC
+2024-01-26 10:47:38,Pittsburgh,27\u00baC
+2024-01-26 10:47:39,Shanghai,18\u00baC
+2024-01-26 10:47:40,Shanghai,31\u00baC
+2024-01-26 10:47:41,Beijing,23\u00baC
+2024-01-26 10:47:42,Beijing,21\u00baC
+2024-01-26 10:47:43,Beijing,21\u00baC
+2024-01-26 10:48:33,Tokyo,24\u00baC
+2024-01-26 10:48:34,Tokyo,25\u00baC
+2024-01-26 10:48:35,Tokyo,28\u00baC
+2024-01-26 10:48:36,Sydney,19\u00baC
+2024-01-26 10:48:37,Pittsburgh,27\u00baC
+2024-01-26 10:48:38,Sydney,31\u00baC
+2024-01-26 10:48:39,Tokyo,27\u00baC
+2024-01-26 10:48:40,Pittsburgh,18\u00baC
+2024-01-26 10:48:41,Tokyo,20\u00baC
+2024-01-26 10:48:42,Sydney,23\u00baC
+2024-01-26 10:52:25,Pittsbruh,22\u00baC
+2024-01-26 10:52:26,Sydnay,23\u00baC
+2024-01-26 10:52:27,Sydnay,26\u00baC
+2024-01-26 10:52:28,Sydnay,18\u00baC
+2024-01-26 10:52:29,Sydnay,20\u00baC
+2024-01-26 10:52:30,Pittsbruh,18\u00baC
+2024-01-26 10:52:31,Tokyou,19\u00baC
+2024-01-26 10:52:32,Sydnay,18\u00baC
+2024-01-26 10:52:33,Pittsbruh,29\u00baC
+2024-01-26 10:52:34,Pittsbruh,18\u00baC
+2024-01-26 10:55:25,Houston,20\u00baC
+2024-01-26 10:55:26,Houston,20\u00baC
+2024-01-26 10:55:27,Washington,23\u00baC
+2024-01-26 10:55:28,Pittsburgh,27\u00baC
+2024-01-26 10:55:29,New York,32\u00baC
+2024-01-26 10:55:30,New York,23\u00baC
+2024-01-26 10:55:31,Houston,26\u00baC
+2024-01-26 10:55:32,New York,30\u00baC
+2024-01-26 10:55:33,Pittsburgh,32\u00baC
+2024-01-26 10:55:34,Houston,26\u00baC
+2024-01-26 10:55:37,Sydnay,29\u00baC
+2024-01-26 10:55:38,Pittsbruh,31\u00baC
+2024-01-26 10:55:39,Tokyou,27\u00baC
+2024-01-26 10:55:40,Pittsbruh,20\u00baC
+2024-01-26 10:55:41,Sydnay,19\u00baC
+2024-01-26 10:55:42,Tokyou,23\u00baC
+2024-01-26 10:55:43,Pittsbruh,21\u00baC
+2024-01-26 10:55:44,Pittsbruh,28\u00baC
+2024-01-26 10:55:45,Tokyou,22\u00baC
+2024-01-26 10:55:46,Tokyou,30\u00baC
+2024-01-26 15:56:30,Tel Aviv,23\u00baC
+2024-01-26 15:56:31,Pune,23\u00baC
+2024-01-26 15:56:32,Tel Aviv,24\u00baC
+2024-01-26 15:56:33,Tel Aviv,18\u00baC
+2024-01-26 15:56:34,Mumbai,29\u00baC
+2024-01-26 15:56:35,Mumbai,31\u00baC
+2024-01-26 15:56:36,Mumbai,31\u00baC
+2024-01-26 15:56:37,Tel Aviv,27\u00baC
+2024-01-26 15:56:38,Mumbai,19\u00baC
+2024-01-26 15:56:39,Mumbai,27\u00baC
+2024-01-26 11:02:49,Pittsburgh,28\u00baC
+2024-01-26 11:02:50,Washington D.C.,19\u00baC
+2024-01-26 11:02:51,Pittsburgh,29\u00baC
+2024-01-26 11:02:52,Washington D.C.,18\u00baC
+2024-01-26 11:02:53,Washington D.C.,32\u00baC
+2024-01-26 11:02:54,Atlanta,27\u00baC
+2024-01-26 11:02:55,New York City,19\u00baC
+2024-01-26 11:02:56,Atlanta,28\u00baC
+2024-01-26 11:02:57,New York City,23\u00baC
+2024-01-26 11:02:58,Washington D.C.,27\u00baC
+2024-01-26 11:03:42,Mumbai,31\u00baC
+2024-01-26 11:03:43,New York,20\u00baC
+2024-01-26 11:03:44,Mumbai,24\u00baC
+2024-01-26 11:03:45,New York,18\u00baC
+2024-01-26 11:03:46,Pittsburgh,29\u00baC
+2024-01-26 11:03:47,New York,23\u00baC
+2024-01-26 11:03:48,Pittsburgh,20\u00baC
+2024-01-26 11:03:49,Mumbai,20\u00baC
+2024-01-26 11:03:50,Mumbai,31\u00baC
+2024-01-26 11:03:51,Mumbai,28\u00baC
+2024-01-26 11:14:26,Hyderabad,32\u00baC
+2024-01-26 11:14:27,Sydney,20\u00baC
+2024-01-26 11:14:28,Hyderabad,31\u00baC
+2024-01-26 11:14:29,Dallas,25\u00baC
+2024-01-26 11:14:30,Hyderabad,21\u00baC
+2024-01-26 11:14:31,Hyderabad,27\u00baC
+2024-01-26 11:14:32,Dallas,25\u00baC
+2024-01-26 11:14:33,Hyderabad,22\u00baC
+2024-01-26 11:14:34,Sydney,23\u00baC
+2024-01-26 11:14:35,Dallas,24\u00baC
+2024-01-26 11:15:24,Dallas,23\u00baC
+2024-01-26 11:15:25,Dallas,18\u00baC
+2024-01-26 11:15:26,Dallas,25\u00baC
+2024-01-26 11:15:27,Sydney,22\u00baC
+2024-01-26 11:15:28,Hyderabad,20\u00baC
+2024-01-26 11:15:29,Dallas,19\u00baC
+2024-01-26 11:15:30,Sydney,19\u00baC
+2024-01-26 11:15:31,Sydney,28\u00baC
+2024-01-26 11:15:32,Dallas,22\u00baC
+2024-01-26 11:15:33,Hyderabad,23\u00baC
+2024-01-26 11:17:34,Pittsburgh,18\u00baC
+2024-01-26 11:17:35,Pittsburgh,22\u00baC
+2024-01-26 11:17:36,Ann Arbor,30\u00baC
+2024-01-26 11:17:37,Ann Arbor,26\u00baC
+2024-01-26 11:17:38,Ann Arbor,31\u00baC
+2024-01-26 11:17:39,Ann Arbor,23\u00baC
+2024-01-26 11:17:40,Pittsburgh,25\u00baC
+2024-01-26 11:17:41,Ann Arbor,28\u00baC
+2024-01-26 11:17:42,Pittsburgh,32\u00baC
+2024-01-26 11:17:43,Ann Arbor,32\u00baC
+2024-01-26 11:17:53,Ann Arbor,30\u00baC
+2024-01-26 11:17:54,Ann Arbor,25\u00baC
+2024-01-26 11:17:55,Pittsburgh,30\u00baC
+2024-01-26 11:17:56,Pittsburgh,20\u00baC
+2024-01-26 11:17:57,Ann Arbor,23\u00baC
+2024-01-26 11:17:58,Pittsburgh,25\u00baC
+2024-01-26 11:17:59,Pittsburgh,22\u00baC
+2024-01-26 11:18:00,Ann Arbor,23\u00baC
+2024-01-26 11:18:01,Pittsburgh,19\u00baC
+2024-01-26 11:18:02,Ann Arbor,20\u00baC
+2024-01-26 11:22:46,Beijing,31\u00baC
+2024-01-26 11:22:47,Shanghai,23\u00baC
+2024-01-26 11:22:48,Shanghai,23\u00baC
+2024-01-26 11:22:49,Pittsburgh,24\u00baC
+2024-01-26 11:22:50,Shanghai,32\u00baC
+2024-01-26 11:22:51,Beijing,30\u00baC
+2024-01-26 11:22:52,Shanghai,23\u00baC
+2024-01-26 11:22:53,Pittsburgh,31\u00baC
+2024-01-26 11:22:54,Shanghai,25\u00baC
+2024-01-26 11:22:55,Pittsburgh,27\u00baC
+2024-01-26 11:23:32,Mumbai,23\u00baC
+2024-01-26 11:23:33,Bangalore,26\u00baC
+2024-01-26 11:23:34,Bangalore,18\u00baC
+2024-01-26 11:23:35,Delhi,23\u00baC
+2024-01-26 11:23:36,Delhi,29\u00baC
+2024-01-26 11:23:37,Mumbai,31\u00baC
+2024-01-26 11:23:38,Delhi,25\u00baC
+2024-01-26 11:23:39,Bangalore,24\u00baC
+2024-01-26 11:23:40,Bangalore,18\u00baC
+2024-01-26 11:23:41,Bangalore,25\u00baC
+2024-01-26 16:24:13,Mumbai,19\u00baC
+2024-01-26 16:24:14,Mumbai,23\u00baC
+2024-01-26 16:24:15,Mumbai,30\u00baC
+2024-01-26 16:24:16,Pune,21\u00baC
+2024-01-26 16:24:17,Pune,31\u00baC
+2024-01-26 16:24:18,Pune,25\u00baC
+2024-01-26 16:24:19,Pune,29\u00baC
+2024-01-26 16:24:20,Pune,23\u00baC
+2024-01-26 16:24:21,Pune,26\u00baC
+2024-01-26 16:24:22,Mumbai,31\u00baC
+2024-01-26 11:27:36,Sydnay,19\u00baC
+2024-01-26 11:27:37,Tokyou,32\u00baC
+2024-01-26 11:27:38,Pittsbruh,25\u00baC
+2024-01-26 11:27:39,Tokyou,26\u00baC
+2024-01-26 11:27:40,Sydnay,30\u00baC
+2024-01-26 11:27:41,Sydnay,22\u00baC
+2024-01-26 11:27:42,Tokyou,25\u00baC
+2024-01-26 11:27:43,Sydnay,30\u00baC
+2024-01-26 11:27:44,Sydnay,27\u00baC
+2024-01-26 11:27:45,Pittsbruh,30\u00baC
+2024-01-26 11:28:45,Delhi,25\u00baC
+2024-01-26 11:28:46,Mumbai,28\u00baC
+2024-01-26 11:28:47,Mumbai,21\u00baC
+2024-01-26 11:28:48,Pittsburgh,31\u00baC
+2024-01-26 11:28:49,Mumbai,31\u00baC
+2024-01-26 11:28:50,Pittsburgh,22\u00baC
+2024-01-26 11:28:51,Delhi,21\u00baC
+2024-01-26 11:28:52,Pittsburgh,23\u00baC
+2024-01-26 11:28:53,Delhi,26\u00baC
+2024-01-26 11:28:54,Mumbai,20\u00baC
